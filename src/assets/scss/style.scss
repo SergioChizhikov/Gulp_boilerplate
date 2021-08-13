@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: chartreuse;
+    text-align: center;
+  }
+div {
+    display: flex;
+    justify-content: start;
+    .get {
+        color: chartreuse;
+    }
+}
